@@ -1,0 +1,10 @@
+`include "uvm_macros.svh"
+
+`include "cfg_if.sv"
+`include "cfg_seq_item.sv"
+`include "cfg_sequence.sv"
+`include "cfg_sequencer.sv"
+`include "cfg_driver.sv"
+`include "cfg_coverage.sv"
+`include "cfg_monitor.sv"
+`include "cfg_agent.sv"

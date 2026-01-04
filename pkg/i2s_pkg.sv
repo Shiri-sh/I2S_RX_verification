@@ -1,0 +1,10 @@
+`include "uvm_macros.svh"
+
+`include "i2s_if.sv"
+`include "i2s_seq_item.sv"
+`include "i2s_sequence.sv"
+`include "i2s_sequencer.sv"
+`include "i2s_coverage.sv"
+`include "i2s_driver.sv"
+`include "i2s_monitor.sv"
+`include "i2s_agent.sv"

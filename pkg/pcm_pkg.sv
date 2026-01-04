@@ -1,0 +1,10 @@
+`include "uvm_macros.svh"
+
+`include "pcm_if.sv"
+`include "pcm_seq_item.sv"
+`include "pcm_sequence.sv"
+`include "pcm_sequencer.sv"
+`include "pcm_driver.sv"
+`include "pcm_coverage.sv"
+`include "pcm_monitor.sv"
+`include "pcm_agent.sv"
